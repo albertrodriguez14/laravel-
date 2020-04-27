@@ -1,4 +1,2 @@
 # TIPS
 
-mis tips
-
