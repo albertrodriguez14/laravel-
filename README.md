@@ -1,4 +1,4 @@
-#  Laravel 6
+# Laravel
 
 ![laravel](.gitbook/assets/images.png)
 
@@ -10,9 +10,7 @@ Como framework resulta bastante moderno y ofrece muchas utilidades potentes a lo
 
 Laravel pone énfasis en la calidad del código, la facilidad de mantenimiento y escalabilidad, lo que permite realizar proyectos desde pequeños a grandes o muy grandes. Además permite y facilita el trabajo en equipo y promueve las mejores prácticas.
 
-**características** 
-
-
+**características**
 
 El framework Laravel trabaja con una arquitectura de carpetas avanzada, de modo que promueve la separación de los archivos con un orden correcto y definido, que guiará a todos los integrantes del equipo de trabajo y será un estándar a lo largo de los distintos proyectos. Por supuesto, dispone también de una arquitectura de clases también muy adecuada, que promueve la separación del código por responsabilidades. Su estilo arquitectónico es MVC.
 
