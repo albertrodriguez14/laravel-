@@ -1,4 +1,4 @@
-#  Laravel
+#  Laravel 6
 
 ![laravel](.gitbook/assets/images.png)
 
