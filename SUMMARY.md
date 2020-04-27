@@ -16,6 +16,6 @@
 * [Plantilla Blade](indice/blade.md)
 * [Consola Tinker](indice/tinker.md)
 * [Los Seeder](indice/seeder.md)
-* [Validacion Formulario](indice/untitled-2.md)
+* [Validación De  Formulario](indice/untitled-2.md)
 * [TIPS](indice/untitled-3.md)
 

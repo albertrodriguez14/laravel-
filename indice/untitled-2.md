@@ -1,4 +1,4 @@
-# Validacion Formulario
+# Validación De  Formulario
 
 ### Validación de formularios clase Request: Laravel 5
 
