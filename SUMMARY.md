@@ -1,6 +1,6 @@
 # Table of contents
 
-* [personal Laravel](README.md)
+* [Personal Laravel](README.md)
 
 ## Indice
 

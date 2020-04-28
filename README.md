@@ -1,4 +1,4 @@
-# personal Laravel
+# Personal Laravel
 
 ![laravel](.gitbook/assets/images.png)
 
