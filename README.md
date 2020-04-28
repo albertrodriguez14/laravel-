@@ -14,7 +14,7 @@ Laravel pone énfasis en la calidad del código, la facilidad de mantenimiento y
 
 El framework Laravel trabaja con una arquitectura de carpetas avanzada, de modo que promueve la separación de los archivos con un orden correcto y definido, que guiará a todos los integrantes del equipo de trabajo y será un estándar a lo largo de los distintos proyectos. Por supuesto, dispone también de una arquitectura de clases también muy adecuada, que promueve la separación del código por responsabilidades. Su estilo arquitectónico es MVC.
 
-Contiene además un amplio conjunto de características, que sirven para realizar la mayoría de las aplicaciones web. Entre ellas podemos encontrar:
+ además Contiene un amplio conjunto de características, que sirven para realizar la mayoría de las aplicaciones web. Entre ellas podemos encontrar:
 
 * Un sistema de rutas, mediante las cuales es fácil crear y mantener todo tipo de URLs amistosas a usuarios y buscadores, rutas de API, etc.
 * Un sistema de abstracción de base de datos, con un ORM potente pero sencillo de manejar, mediante el que podemos tratar los datos de la base de datos como si fueran simples objetos.
