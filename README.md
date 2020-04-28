@@ -2,7 +2,7 @@
 
 ![laravel](.gitbook/assets/images.png)
 
-Laravel es un popular framework de **PHP**. Permite el desarrollo de aplicaciones web totalmente personalizadas de elevada calidad.
+Laravel es un popular framework de PHP. Permite el desarrollo de aplicaciones web totalmente personalizadas de elevada calidad.
 
 Laravel es un framework PHP. Es uno de los frameworks más utilizados y de mayor comunidad en el mundo de Internet.
 
