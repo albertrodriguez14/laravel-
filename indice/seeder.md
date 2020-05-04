@@ -20,7 +20,7 @@ en el archivo te diriges a la función run  y escribes  los datos que deseas ing
 
  
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 no olvidar usar el  facade DB **`use Illuminate\Support\Facades\DB;`**
 
@@ -36,11 +36,11 @@ composer dump-autoload
 
 Ahora puedes usar el comando Artisan `db:seed` para alimentar tu base de datos. De forma predeterminada, el comando `db:seed` ejecuta la clase `DatabaseSeeder`, la cual puede ser usada para ejecutar otras clases seeder. Sin embargo, puedes usar la opción `--class` para especificar que una clase seeder específica se ejecute individualmente:
 
-![en el archivo DatabaseSeeder escribimos N seeder que creamos ](../.gitbook/assets/image%20%285%29.png)
+![en el archivo DatabaseSeeder escribimos N seeder que creamos ](../.gitbook/assets/image%20%286%29.png)
 
     **``**
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ```text
 php artisan db:seed

@@ -135,9 +135,9 @@ tenemos el modelo que tendrá la llave primaria, el cual la otra tabla depender�
 
  
 
-![creamos la funci&#xF3;n con el modelo a referenciar](../../.gitbook/assets/image.png)
+![creamos la funci&#xF3;n con el modelo a referenciar](../../.gitbook/assets/image%20%281%29.png)
 
-![hacemos lo mismo en el modelo contrario](../../.gitbook/assets/image%20%281%29.png)
+![hacemos lo mismo en el modelo contrario](../../.gitbook/assets/image%20%282%29.png)
 
 la función hasMany indica que que la relación sera de uno a mucho y la otra sera la referencia inversa uno a mucho
 

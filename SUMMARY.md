@@ -5,7 +5,8 @@
 ## Indice
 
 * [Paso Instalación](indice/instalacion/README.md)
-  * [Crear  el proyecto](indice/instalacion/creando-un-proyecto.md)
+  * [Crear  el proyecto](indice/instalacion/creando-un-proyecto/README.md)
+    * [sincronizar con github](indice/instalacion/creando-un-proyecto/sincronizar-con-github.md)
 * [Rutas](indice/untitled.md)
 * [Los Controladores](indice/controller.md)
 * [las Migraciones](indice/migracion/README.md)

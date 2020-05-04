@@ -16,7 +16,7 @@ Una vez dentro de tinker puede hacer consultas incluso insertar datos a través 
 
 Ahora corramos alguna consulta en thinker, para este ejemplo usare la misma base de datos que use en la introducción a eloquent. Por tanto tendre un Model Cliente y la base de datos example.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 los datos que tengo son los siguientes.
 

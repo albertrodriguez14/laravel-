@@ -4,7 +4,7 @@ Composer es una herramienta para gestionar las dependencias en PHP. Te permite d
 
 Para instalar Composer en Windows debemos descargarlo de su [página oficial ](https://getcomposer.org/download)y en la sección Windows Installer, haz click en Composer-Setup.exe.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 Una vez que la descarga finalice, ejecuta el instalador y haz click en Next.
 
