@@ -131,3 +131,11 @@ Schema::table('posts', function (Blueprint $table) {
 });
 ```
 
+También puedes especificar la acción deseada para las propiedades "on delete" y "on update" de la restricción:
+
+```text
+$table->foreign('user_id')
+      ->references('id')->on('users')
+      ->onDelete('cascade');
+```
+
