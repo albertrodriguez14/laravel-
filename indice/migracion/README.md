@@ -139,3 +139,5 @@ $table->foreign('user_id')
       ->onDelete('cascade');
 ```
 
+
+
