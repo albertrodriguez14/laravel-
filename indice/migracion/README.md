@@ -117,3 +117,17 @@ public function boot()
 
 Alternativamente, puedes habilitar la opción `innodb_large_prefix` para tu base de datos. Debes referirte a la documentación de tu base de datos para conocer las instrucciones de cómo habilitar ésta apropiadamente.
 
+
+
+#### Restricciones de clave foránea <a id="restricciones-de-clave-foranea"></a>
+
+Laravel también proporciona soporte para la creación de restricciones de clave foránea, las cuales son usadas para forzar la integridad referencial a nivel de base de datos. Por ejemplo, vamos a definir una columna `user_id` en la tabla `posts` que referencia la columna `id` en una tabla `users`:
+
+```text
+Schema::table('posts', function (Blueprint $table) {
+    $table->unsignedBigInteger('user_id');
+
+    $table->foreign('user_id')->references('id')->on('users');
+});
+```
+
