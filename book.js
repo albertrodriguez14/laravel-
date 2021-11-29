@@ -7,4 +7,4 @@
     "theme": "dark",
     "lineNumber": true
   }
-};
+}
