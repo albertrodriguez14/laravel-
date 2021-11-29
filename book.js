@@ -1,10 +1,8 @@
 {
-    plugins: ["-highlight", "sunlight-highlighter"]
-},
-
-"pluginsConfig": {
-  "sunlight-highlighter": {
-    "theme": "dark",
-    "lineNumber": true
-  }
+    "plugins": ["theme-api"],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        }
+    }
 }
